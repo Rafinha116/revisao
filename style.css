@@ -1,0 +1,21 @@
+
+html body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+max-width: 1000px;
+margin: auto;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+#viagens{
+  width: 280px ;
+}
+
+header{
+  background-color: rgb(42, 181, 206);
+}        
